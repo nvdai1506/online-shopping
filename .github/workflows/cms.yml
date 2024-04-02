@@ -44,7 +44,9 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            cd /var/www/html/cms
+            cd /var/www/html
+            sudo mkdir cms
+            cd cms
             sudo cp ~/online-shopping/client/admin/build.zip .
 
       - name: unzip file build.zip
