@@ -9,10 +9,11 @@ jobs:
     defaults:
       run:
         working-directory: ./client/customer
+        
     strategy:
       matrix:
         node-version: [ 18.x ]
-        
+
     steps:
       - uses: actions/checkout@v3
       - name: Setup node-version
