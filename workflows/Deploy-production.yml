@@ -1,0 +1,26 @@
+name: Publish Docker image
+
+on:
+  push:
+    branches:
+      - master-bk-2
+
+jobs:
+  push_to_registry:
+    name: Push Docker image to Docker Hub
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+        env:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+
+      - run: cd ./online\ shopping/server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
+      - run: docker push nvdai/online-shopping-api
+
+      - run: cd ./online\ shopping/client/admin && docker build -t nvdai/online-shopping-admin -f Dockerfile.dev .
+      - run: docker push nvdai/online-shopping-admin
+
+      - run: cd ./online\ shopping/client/customer && docker build -t nvdai/online-shopping-customer -f Dockerfile.dev .
+      - run: docker push nvdai/online-shopping-customer

@@ -1,0 +1,30 @@
+name: Deploy Docker Compose
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - run: docker login -u $DOCKER_USERNAME -p $DOCKER_PASSWORD
+        env:
+          DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
+          DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
+
+      - run: cd ./online\ shopping/server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
+      - run: docker push nvdai/online-shopping-api
+
+      - name: Copy server to ubuntu server
+        uses: appleboy/scp-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          source: "./docker-compose.prod.yml"
+          target: "~/online shopping"
