@@ -37,5 +37,5 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            cd ~/online shopping/server
+            cd ~/online\ shopping/server
             sudo docker compose -f docker-compose.prod.yml up -d
