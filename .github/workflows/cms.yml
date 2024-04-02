@@ -33,7 +33,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: 'client/admin/build.zip'
-          target: '~/online-shopping/cms'
+          target: '~/online-shopping'
 
       - name: Copy build.zip to /var/www/html/ folder
         uses: appleboy/ssh-action@master
@@ -44,7 +44,7 @@ jobs:
           port: 22
           script: |
             cd /var/www/html/cms
-            sudo cp ~/online-shopping/cms/build.zip .
+            sudo cp ~/online-shopping/client/admin/build.zip .
 
       - name: unzip file build.zip
         uses: appleboy/ssh-action@master
