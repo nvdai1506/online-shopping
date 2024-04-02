@@ -27,7 +27,7 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: "./docker-compose.prod.yml"
-          target: "~/online shopping/server"
+          target: "~/online-shopping/server"
       
       - name: Run docker-compose on server
         uses: appleboy/ssh-action@master
@@ -37,5 +37,6 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           script: |
-            cd ~/online\ shopping/server
+            cd ~/online-shopping/server
+            sudo docker compose -f docker-compose.prod.yml down
             sudo docker compose -f docker-compose.prod.yml up -d
