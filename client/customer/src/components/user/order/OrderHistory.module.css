@@ -1,0 +1,25 @@
+.order_list_container {
+  /* grid-column: span 2; */
+  display: grid;
+  grid-template-columns: 1fr;
+  justify-items: center;
+  align-items: center;
+  gap: 2rem;
+
+  padding: 0 1rem;
+  max-height: 85vh;
+  min-height: 10vh;
+  overflow-y: auto;
+}
+.no_product {
+  font-size: 2.4rem;
+}
+.textbox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.date {
+  text-align: center;
+}

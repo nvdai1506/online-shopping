@@ -1,0 +1,131 @@
+[{
+  "_id": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "name": "Áo",
+  "ChildCatalogs": [
+    {
+      "$oid": "636c5f4a32f2b6393813aa23"
+    },
+    {
+      "$oid": "636e17b3db42592a2cb77b90"
+    },
+    {
+      "$oid": "6371a8ad145d90c066ff28a0"
+    },
+    {
+      "$oid": "638dd9f34f6a6538b14abe7b"
+    }
+  ],
+  "__v": 53,
+  "value": "ao",
+  "featuredProducts": [
+    {
+      "$oid": "638dc1264f6a6538b14abdc7"
+    },
+    {
+      "$oid": "638dd6104f6a6538b14abe3e"
+    },
+    {
+      "$oid": "638dd6184f6a6538b14abe43"
+    },
+    {
+      "$oid": "638dd6284f6a6538b14abe48"
+    },
+    {
+      "$oid": "638ddd8d4f6a6538b14abee9"
+    },
+    {
+      "$oid": "638ddd934f6a6538b14abeef"
+    },
+    {
+      "$oid": "638ddd994f6a6538b14abef5"
+    },
+    {
+      "$oid": "637447266e7b2a735a349259"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "name": "Quần",
+  "ChildCatalogs": [
+    {
+      "$oid": "637237f6bacce0fca991158e"
+    },
+    {
+      "$oid": "638dda094f6a6538b14abe8f"
+    },
+    {
+      "$oid": "638dda184f6a6538b14abe9c"
+    },
+    {
+      "$oid": "638f10996898780969dfd0f4"
+    }
+  ],
+  "__v": 28,
+  "value": "quan",
+  "featuredProducts": [
+    {
+      "$oid": "6374477c6e7b2a735a349270"
+    },
+    {
+      "$oid": "637447926e7b2a735a34927a"
+    },
+    {
+      "$oid": "638f136c6898780969dfd182"
+    },
+    {
+      "$oid": "638f13776898780969dfd18c"
+    },
+    {
+      "$oid": "638f13806898780969dfd196"
+    },
+    {
+      "$oid": "638f138a6898780969dfd1a0"
+    },
+    {
+      "$oid": "638f12316898780969dfd15c"
+    },
+    {
+      "$oid": "638f12046898780969dfd13a"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "637447cf6e7b2a735a349292"
+  },
+  "name": "Phụ kiện",
+  "ChildCatalogs": [
+    {
+      "$oid": "637447d66e7b2a735a34929b"
+    }
+  ],
+  "__v": 11,
+  "value": "phu-kien",
+  "featuredProducts": [
+    {
+      "$oid": "637447f86e7b2a735a3492ad"
+    },
+    {
+      "$oid": "6374480e6e7b2a735a3492b7"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6374da90394b901101c25b19"
+  },
+  "name": "Bao lô - Túi",
+  "ChildCatalogs": [
+    {
+      "$oid": "6376f30e12adde895dd80006"
+    },
+    {
+      "$oid": "63b7b2025afb69c5321c4cdd"
+    }
+  ],
+  "__v": 7,
+  "value": "bao-lo-tui",
+  "featuredProducts": []
+}]

@@ -1,0 +1,49 @@
+.main {
+  margin: 1% 10%;
+  /* background-color: antiquewhite; */
+  height: 50rem;
+}
+
+.status {
+  width: 75%;
+  height: 4rem;
+  margin: 0 10%;
+  /* background-color: rgb(233, 229, 237);   */
+}
+.form {
+  height: 80%;
+  width: 100%;
+  /* background-color: rgb(154, 138, 169); */
+}
+.list {
+  height: 80%;
+  width: 100%;
+  margin: 2% 0;
+  /* background-color: rgb(82, 82, 121); */
+}
+.search {
+  width: 100%;
+  height: 3rem;
+  /* background-color: rgb(208, 208, 230); */
+  text-align: center;
+  margin: 2% 0;
+}
+.voucher_btn {
+  padding: 1rem 2rem;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  margin: 1rem 0;
+  cursor: pointer;
+  background-color: #e8590c;
+  color: rgb(233, 233, 233);
+  font-weight: bold;
+  text-transform: uppercase;
+  transform: all 0.3s;
+}
+.voucher_btn:hover,
+.voucher_btn:active {
+  background-color: #f76707;
+  color: white;
+  transform: scale(1.05) rotate(-1deg);
+}

@@ -1,0 +1,46 @@
+version: "3"
+services:
+  redis:
+    image: "redis"
+    restart: unless-stopped
+    command: ["redis-server", "--bind", "redis", "--port", "6379"]
+    networks:
+      - online-shopping-network
+  mongodb:
+    container_name: online-shop-db
+    image: mongo:4.2
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_DATABASE=onlineShop
+      - MONGO_INITDB_ROOT_PASSWORD=123123
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data:/app/data
+    networks:
+      - online-shopping-network
+
+  backend:
+    restart: on-failure
+    image: nvdai/api-online-shopping
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./:/app
+    depends_on:
+      - redis
+      - mongodb
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - ACCESSTOKEN_SECRET_KEY=nVdai1506
+      - ACCESSTOKEN_EXPIRES_IN=1d
+      - MONGODB_URI=mongodb://admin:123123@mongodb:27017/onlineShop?authSource=admin
+      - WEBPUSH_PUBLIC_KEY=BGA6DWy9kcp3ExfMLsRJX4XdfqU89KZenuIJy9zShBNFzb2B2aBRlFUOGLgRatB5T9xCRbGQYsUboERR7oZj1xY
+      - WEBPUSH_PRIVATE_KEY=6LA-TnI2PMQ9FLUMyWsIeGt5PEJfgTFEYCwfwGnfHLA
+    networks:
+      - online-shopping-network
+
+networks:
+  online-shopping-network:
+    driver: bridge

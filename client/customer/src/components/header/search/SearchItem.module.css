@@ -1,0 +1,33 @@
+.search_item {
+}
+.image {
+  height: 7rem;
+  width: 5rem;
+  justify-self: center;
+}
+.image img {
+  height: 100%;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+.textbox {
+  grid-column: span 2;
+  align-self: start;
+}
+.title {
+  padding-top: 1rem;
+  font-size: 1.4rem;
+  cursor: pointer;
+}
+.price {
+  display: inline-block;
+  margin-top: 1rem;
+  font-size: 1.2rem;
+  color: rgb(186, 0, 0);
+}
+/* 467 */
+@media (max-width: 29em) {
+  .title {
+    font-size: 1.2rem;
+  }
+}

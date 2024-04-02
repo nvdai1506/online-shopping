@@ -1,0 +1,144 @@
+.headerNav {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #16090e;
+}
+
+.logo {
+  font-size: 2rem;
+  color: white;
+  font-weight: bold;
+  padding-left: 1rem;
+  cursor: pointer;
+}
+
+/* .header ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  align-items: baseline;
+  margin-right: 3rem;
+} */
+/* 
+.header li {
+  margin-left: 3rem;
+}
+
+.header a {
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+
+.header a:hover,
+.header a:active,
+.header a.active {
+  color: #16090e;
+  background-color: white;
+}
+
+.badge {
+  background-color: #cc2062;
+  color: white;
+  border-radius: 12px;
+  padding: 0 1rem;
+  margin-left: 0.5rem;
+}
+.btn {
+  padding: 0;
+  border: none;
+  background: none;
+  text-decoration: none;
+  font-size: 1.5rem;
+  color: #ffffff;
+  cursor:pointer;
+  font-weight: bold;
+}
+.btn:hover,
+.btn:active,
+.btn.active {
+  color: #16090e;
+  background-color: white;
+  border-radius: 12px;
+  height: 3rem;
+}
+.active{
+  background-color: white;
+  color:#16090e;
+} */
+/* 
+ */
+/* * {
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+} */
+.headerNav ul {
+  display: flex;
+  width: 95%;
+  height: 80vh;
+  margin: auto;
+  max-width: 1000px;
+  justify-content: space-between;
+  text-align: center;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-right: 1.5rem;
+}
+.headerNav li {
+  padding: 1rem 0.2rem 1.15rem;
+  cursor: pointer;
+  color: #ebebeb;
+  min-width: 80px;
+  margin: auto;
+}
+.headerNav a {
+  width: 100%;
+  padding: 1rem 2rem 1.15rem;
+  cursor: pointer;
+  color: #ebebeb;
+  min-width: 80px;
+  margin: auto;
+  font-weight: normal;
+  text-decoration: none;
+}
+.headerNav li:hover {
+  background-image: url("../../../public/img/button.webp");
+  background-size: 100% 100%;
+  color: #27262c;
+  animation: spring 300ms ease-out;
+  text-shadow: 0 -1px 0 #ef816c;
+  font-weight: bold;
+}
+.active {
+  background-image: url("../../../public/img/button.webp");
+  background-size: 100% 100%;
+  color: #27262c;
+  animation: spring 300ms ease-out;
+  text-shadow: 0 -1px 0 #ef816c;
+  font-weight: bold;
+  width: 100%;
+}
+@keyframes spring {
+  15% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.2, 1.1);
+  }
+  40% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(0.95, 0.95);
+  }
+  75% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1.05, 1);
+  }
+  100% {
+    -webkit-transform-origin: center center;
+    -webkit-transform: scale(1, 1);
+  }
+}

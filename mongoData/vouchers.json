@@ -1,0 +1,613 @@
+[{
+  "_id": {
+    "$oid": "63ba30814f84217b8feea299"
+  },
+  "captcha": "xwwxww",
+  "percent": 13,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1673802000000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba30994f84217b8feea29e"
+  },
+  "captcha": "cedcece",
+  "percent": 13,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1673802000000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba30cc4f84217b8feea2b0"
+  },
+  "captcha": "scsdcsd",
+  "percent": 14,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba31134f84217b8feea2b7"
+  },
+  "captcha": "cecece",
+  "percent": 12,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba314b4f84217b8feea2bc"
+  },
+  "captcha": "cecececee",
+  "percent": 14,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba315d4f84217b8feea2c1"
+  },
+  "captcha": "csdcsdcdc",
+  "percent": 14,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba32bb4f84217b8feea2c8"
+  },
+  "captcha": "cececececesdsd",
+  "percent": 14,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba32ed4f84217b8feea2cf"
+  },
+  "captcha": "cececeas",
+  "percent": 14,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba332e4f84217b8feea2d6"
+  },
+  "captcha": "cececsasadasce",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba338f4f84217b8feea2dd"
+  },
+  "captcha": "cececeassaas",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba34174f84217b8feea2e4"
+  },
+  "captcha": "cececsaadsa",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba34354f84217b8feea2eb"
+  },
+  "captcha": "btbtbt",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba348c4f84217b8feea2f2"
+  },
+  "captcha": "cecasdsaf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba34bc4f84217b8feea2f7"
+  },
+  "captcha": "cecasdcas",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba34cb4f84217b8feea2fc"
+  },
+  "captcha": "csadsadcsd",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba34d64f84217b8feea303"
+  },
+  "captcha": "asdfsdafsadf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3588aa1aa6774da077bc"
+  },
+  "captcha": "vfsdgdfsg",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba35c2206c80b43664418c"
+  },
+  "captcha": "ceerwtvsd",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba35f11a8dcb54b97087a3"
+  },
+  "captcha": "rhfgdbgf",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3634dca8982c51eded40"
+  },
+  "captcha": "dsacsae",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba369c45f762fd101c2fb1"
+  },
+  "captcha": "dsfvdfv",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba36c7c19adbfa68f69293"
+  },
+  "captcha": "csadcsadcsda",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba37be18ddcbabeeb59e9f"
+  },
+  "captcha": "cascawscsd",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba392d428ba3f0ced3905e"
+  },
+  "captcha": "hgewdfvf",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3985d92cc7c3c5c1f86e"
+  },
+  "captcha": "dsacsacsd",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba39d0b3a7c113c108b1b5"
+  },
+  "captcha": "sdvdfvdf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3a66b614b5530d0af983"
+  },
+  "captcha": "dvdsfvdsf",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3ab866cacf3b5cf4de0f"
+  },
+  "captcha": "csacsdacsd",
+  "percent": 23,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3cbf8f3c2bb3ca05c284"
+  },
+  "captcha": "fdavdfvdf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3d06a0ac48d82025e338"
+  },
+  "captcha": "vsdfvdf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3d278b74b495871f3abb"
+  },
+  "captcha": "fvdsfvdf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3d51b5c0cf1038e8f592"
+  },
+  "captcha": "vdsvdsfv",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3d9bc5cbd89ecd595b65"
+  },
+  "captcha": "ntngnhg",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63ba3e0cb85ab9495c89e9e1"
+  },
+  "captcha": "dfsvdsfvf",
+  "percent": 34,
+  "vnd": 0,
+  "fromDate": {
+    "$date": {
+      "$numberLong": "1673110800000"
+    }
+  },
+  "toDate": {
+    "$date": {
+      "$numberLong": "1674320400000"
+    }
+  },
+  "__v": 0
+}]

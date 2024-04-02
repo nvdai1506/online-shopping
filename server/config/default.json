@@ -1,0 +1,6 @@
+{
+  "vnp_TmnCode": "XBF38C2A",
+  "vnp_HashSecret": "MJSZUJFACNSGNZBZAFHIUMZUSQHXGPDR",
+  "vnp_Url": "https://sandbox.vnpayment.vn/paymentv2/vpcpay.html",
+  "vnp_ReturnUrl": "https://react-project-a389a.web.app/order"
+}

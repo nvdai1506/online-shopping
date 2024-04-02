@@ -1,0 +1,5 @@
+/build
+.firebaserc
+firebase.json
+/.firebase
+node_modules

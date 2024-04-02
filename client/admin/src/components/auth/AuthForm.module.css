@@ -1,0 +1,58 @@
+.form{
+    margin: 5% 35%;
+    width: 30%;
+    height: 30rem;
+    background-color: rgb(165, 200, 188);
+    text-align: center;
+    box-shadow: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.status{
+    height: 10%;
+}
+.form h1{
+    font-size: 3rem;
+    margin: 3rem 0;
+    padding-top:2rem;
+}
+.form button{
+    height: 3rem;
+    width: 6rem;
+    margin-top: 2rem;
+    background-color: rgb(70, 143, 117);
+    color:white;
+    cursor: pointer;
+    font-size: 1rem;
+    font-weight: bold;
+    border:none;
+}
+.form button:hover,button:active{
+    background-color: rgb(13, 56, 41);
+    color:rgb(171, 198, 224);
+}
+.form span{
+    color: white;
+    font-weight: bold;
+    font-size: 2rem;
+}
+.info{
+    margin: 1rem 1rem;
+    justify-content: space-between;
+    display: flex;
+    padding: 0 2rem;
+}
+.info label{
+    font-size: 1.5rem;
+    
+}
+.info input{
+    width: 20rem;
+}
+.loginFail{
+    color:red;
+}
+.loading{
+    position: relative !important;
+    top:0 !important;
+    left:0 !important;
+}

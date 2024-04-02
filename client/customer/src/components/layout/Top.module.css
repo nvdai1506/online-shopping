@@ -1,0 +1,21 @@
+.top {
+  position: fixed;
+  bottom: 10%;
+  right: 1%;
+  height: 4rem;
+  width: 4rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background-color: #66d9e85f;
+  cursor: pointer;
+  /* background-color: rgba(244, 244, 244, 0.2); */
+}
+.top:hover {
+  background-color: #66d9e8;
+}
+.arrow_icon {
+  font-size: 2rem;
+  color: black;
+}

@@ -1,0 +1,80 @@
+.order_history_cart {
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.1);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 100%;
+}
+/* .textbox {
+  align-self: flex-end;
+}
+.total {
+  align-self: flex-end;
+} */
+.textbox {
+  margin: 2rem 0;
+  padding: 0 10%;
+  font-size: 1.6rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+.textbox_item {
+  display: flex;
+  justify-content: space-between;
+}
+.textbox label {
+  font-weight: 700;
+}
+.textbox_span {
+  font-style: italic;
+}
+.hr {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.hr hr {
+  width: 80%;
+}
+.date,
+.total {
+  font-style: italic;
+}
+.total {
+  color: blue;
+}
+
+.status_sucess {
+  color: green;
+}
+.status_canceled {
+  color: orange;
+}
+.status_processing {
+  color: blue;
+}
+/* 900px */
+@media (max-width: 57em) {
+  .date,
+  .textbox_label,
+  .textbox_span {
+    font-size: 1.2rem;
+  }
+  .total {
+    font-size: 1.4rem;
+  }
+}
+/* 400px */
+@media (max-width: 25em) {
+  .date span {
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+  .shippingDate {
+    display: flex !important;
+    justify-content: flex-end;
+  }
+}

@@ -1,0 +1,56 @@
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 20;
+  background-color: rgba(0, 0, 0, 0.5);
+}
+.overlays {
+  z-index: 21;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 55%;
+  transform: translate(-50%, -50%);
+}
+/* below 1200px */
+@media (max-width: 75em) {
+  .overlays {
+    width: 60%;
+  }
+}
+/* 1000 */
+@media (max-width: 62.5em) {
+  .overlays {
+    width: 65%;
+  }
+}
+/* below 900px */
+@media (max-width: 57em) {
+  .overlays {
+    width: 70%;
+  }
+}
+/* 722 */
+@media (max-width: 45.125em) {
+  .overlays {
+    width: 75%;
+  }
+}
+/* 600 */
+@media (max-width: 37.5em) {
+  .overlays {
+    width: 80%;
+  }
+}
+/* 320 */
+@media (max-width: 20em) {
+  .overlays {
+    width: 85%;
+  }
+}

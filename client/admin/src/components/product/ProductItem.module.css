@@ -1,0 +1,44 @@
+/* .titles{
+    display: flex;
+}
+.titles h3{
+    background-color: rgb(114, 150, 150);
+    margin: 1px 1px;
+    padding: 0 5px;
+} */
+.main{
+    width: 100%;
+}
+.main td{
+    background-color:rgb(114, 150, 150) ;
+    height: 1rem;
+    margin: 1px 1px;
+    padding: 0 5px;
+    
+}
+.titles_title{
+    width: 20%;
+}
+.titles_material{
+    width: 10%;
+}
+.titles_size{
+    width: 10%;
+}
+.titles_price{
+    width: 10%;
+}
+.titles_decription{
+    width: 35%;
+}
+.titles_action{
+    width: 15%;
+    text-align: center;
+}
+.btn{
+    width: 4rem;
+    height: 1.5rem;
+    margin: 1px 1px;
+    padding: 0 5px;
+    font-size: 0.8rem;
+}

@@ -1,0 +1,83 @@
+.modal {
+  left: 0;
+  width: 100vw;
+  height: 80vh;
+  background: none !important;
+  box-shadow: none !important;
+}
+.voucher_container {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.voucher {
+  /* height: 80%; */
+  width: 50%;
+  background-color: white;
+  z-index: 40;
+}
+.form {
+  padding: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+.captcha_input {
+  width: 100%;
+}
+.sale {
+  width: 100%;
+  display: flex;
+  gap: 1rem;
+}
+.sale_input {
+  width: 70%;
+}
+
+.select {
+  width: 20%;
+  height: 2rem;
+}
+.captcha_input,
+.sale_input {
+  margin: 0;
+  padding: 0;
+}
+
+.date_container {
+  grid-column: span 2;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+}
+.date {
+  display: flex;
+  gap: 1rem;
+}
+.btn {
+  width: 5rem;
+  /* grid-column: 2;
+  justify-self: end; */
+}
+.cancel {
+  display: flex;
+  justify-content: flex-end;
+  margin: 2rem;
+  margin-right: 3rem;
+}
+.cancel_btn {
+}
+.datePicker_input {
+  border: none;
+  border-bottom: 1px solid black;
+}
+.datePicker_input:focus {
+  outline: none;
+}
+.voucher_list {
+  width: 100%;
+  height: 50%;
+  background-color: aqua;
+}

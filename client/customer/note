@@ -1,0 +1,4 @@
+// set port for window
+"start": "set PORT=3001 && react-scripts start",
+// set port for linux
+"start": "PORT=3001 react-scripts start",

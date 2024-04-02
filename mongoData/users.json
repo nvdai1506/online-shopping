@@ -1,0 +1,430 @@
+[{
+  "_id": {
+    "$oid": "6365cb429d353855e691e5aa"
+  },
+  "email": "admin@admin.com",
+  "password": "$2a$12$l8IJVYqupmkdnqMzy6cajuLVmTXizq0pprbzWqE.0Hy7rGvuRxejy",
+  "rfToken": "yvoBaiYDa5q2URBGwruXSFRcMqRCMlzSItFy44ZfxiBD3oec7yuVaTSPQHhXoDgMxZHevzSlXsHe9b6y",
+  "points": 0,
+  "role": 1,
+  "__v": 3,
+  "phone": "",
+  "orders": [],
+  "address": "",
+  "cart": {
+    "items": [],
+    "totalAmount": 0,
+    "totalPrice": 0
+  },
+  "name": ""
+},{
+  "_id": {
+    "$oid": "6365cc3e9ff58aa3e3d85c84"
+  },
+  "email": "nvdai@gmail.com",
+  "password": "$2a$12$NAh79JfpPjQJsOICsXwHUeYWWe8nRddJ9ZWalu0mmcI3MhI8xMTPK",
+  "rfToken": "Z1skNgMmP5T4PB5095OjnqIMTHUhedpyqFlyFTjYLEylsbTL5ZvSOSTDYNbu5ncAcBo3aZEdIoyCBwYn",
+  "points": 14,
+  "role": 0,
+  "__v": 236,
+  "phone": "0373439063",
+  "cart": {
+    "items": [
+      {
+        "product": {
+          "$oid": "638dd6104f6a6538b14abe3e"
+        },
+        "amount": 1,
+        "currentSize": "XL",
+        "_id": {
+          "$oid": "63a9bfe1a77505fcd727bcd9"
+        }
+      },
+      {
+        "product": {
+          "$oid": "638ddd934f6a6538b14abeef"
+        },
+        "amount": 1,
+        "currentSize": "XL",
+        "_id": {
+          "$oid": "63a9bfe1a77505fcd727bcda"
+        }
+      }
+    ],
+    "totalPrice": 445000,
+    "totalAmount": 2
+  },
+  "address": "Nguyen Duy Trinh",
+  "name": "Nguyen Dai",
+  "orders": [
+    {
+      "$oid": "63942e9e82287cb696d555bb"
+    },
+    {
+      "$oid": "63943313238153fc14219082"
+    },
+    {
+      "$oid": "639435bc238153fc142190db"
+    },
+    {
+      "$oid": "6394362e0ecc514608450852"
+    },
+    {
+      "$oid": "6394368d359773e78e71f78c"
+    },
+    {
+      "$oid": "639436d6359773e78e71f7bd"
+    },
+    {
+      "$oid": "6394386e359773e78e71f7ea"
+    },
+    {
+      "$oid": "63957e580f2f0a93501330e6"
+    },
+    {
+      "$oid": "6396adb9f3f5152e4645a7f2"
+    },
+    {
+      "$oid": "6396ae13f3f5152e4645a816"
+    },
+    {
+      "$oid": "6396ae27f3f5152e4645a82e"
+    },
+    {
+      "$oid": "6396ae4df3f5152e4645a846"
+    },
+    {
+      "$oid": "6397ee0bd7fd66117c591ffc"
+    },
+    {
+      "$oid": "6398034d3f560797164551ec"
+    },
+    {
+      "$oid": "6398035a3f56079716455206"
+    },
+    {
+      "$oid": "639803913f56079716455238"
+    },
+    {
+      "$oid": "639803963f56079716455252"
+    },
+    {
+      "$oid": "6398047b3f56079716455299"
+    },
+    {
+      "$oid": "639804843f560797164552b3"
+    },
+    {
+      "$oid": "639806213f56079716455316"
+    },
+    {
+      "$oid": "639806263f56079716455337"
+    },
+    {
+      "$oid": "639806623f5607971645536d"
+    },
+    {
+      "$oid": "6398066b3f56079716455387"
+    },
+    {
+      "$oid": "639806be3f560797164553ca"
+    },
+    {
+      "$oid": "639806c23f560797164553e2"
+    },
+    {
+      "$oid": "639806f73f5607971645540e"
+    },
+    {
+      "$oid": "639806fb3f56079716455426"
+    },
+    {
+      "$oid": "639808103f560797164554a5"
+    },
+    {
+      "$oid": "639808153f560797164554bd"
+    },
+    {
+      "$oid": "639808a63f560797164554ef"
+    },
+    {
+      "$oid": "639808ab3f56079716455503"
+    },
+    {
+      "$oid": "639808f33f56079716455532"
+    },
+    {
+      "$oid": "639808f73f56079716455546"
+    },
+    {
+      "$oid": "6398092c3f5607971645557a"
+    },
+    {
+      "$oid": "639809393f56079716455594"
+    },
+    {
+      "$oid": "6399ace2696ada7aa48b096a"
+    },
+    {
+      "$oid": "63a1432cee9b99f9fe757885"
+    },
+    {
+      "$oid": "63a7bca7aa6211bdecaf98ea"
+    },
+    {
+      "$oid": "63a7cf3a3122dcd46d6d63ad"
+    },
+    {
+      "$oid": "63a7d6760f054eacbed63c47"
+    },
+    {
+      "$oid": "63a7d6990f054eacbed63c58"
+    },
+    {
+      "$oid": "63a7d6ae0f054eacbed63c6d"
+    },
+    {
+      "$oid": "63a7d6d50f054eacbed63c84"
+    },
+    {
+      "$oid": "63a7d7020f054eacbed63cab"
+    },
+    {
+      "$oid": "63a7d7280f054eacbed63cde"
+    },
+    {
+      "$oid": "63a7d7500f054eacbed63cf0"
+    },
+    {
+      "$oid": "63a7d8d60f054eacbed63cf7"
+    },
+    {
+      "$oid": "63a7d8ed0f054eacbed63cfd"
+    },
+    {
+      "$oid": "63a7da280f054eacbed63d32"
+    },
+    {
+      "$oid": "63a7db170f054eacbed63d5b"
+    },
+    {
+      "$oid": "63a82e8faab3db08458ad38b"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "6393d696ceebda3bb02b1dc0"
+  },
+  "phone": "0355979692",
+  "name": "Nga Thanh",
+  "address": "Nguyen Duy Trinh",
+  "email": "nvdai2@gmail.com",
+  "password": "$2a$12$Pr7PySwOheNfpKDiDgtEEu0BSiZtri4rkAq6LR30t7Fu3/UAQJ8TW",
+  "rfToken": "VIkzkedh97D7Grd61lRJLBe8rYdD9Us2leYdXTTRucfmE1Tz1MDU8MY7bLBEmf0XATtR4Oo9xc6km9qV",
+  "points": 0,
+  "role": 0,
+  "cart": {
+    "items": [],
+    "totalPrice": 0,
+    "totalAmount": 0
+  },
+  "__v": 9,
+  "orders": [
+    {
+      "$oid": "6396ad13f3f5152e4645a725"
+    },
+    {
+      "$oid": "6396ad23f3f5152e4645a752"
+    },
+    {
+      "$oid": "6396ad79f3f5152e4645a779"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "639d3966e40bcb1fefcda70e"
+  },
+  "name": "Nguyen Dai",
+  "email": "kiemtienol1506@gmail.com",
+  "password": "$2a$12$avscN.U9Ex4creX1bQa19uMA1PDIjiNs/SlYVgii0GSTIhKkmeWeO",
+  "rfToken": "p0bUMMEASHCQPbU92tvWNwxv9sccxiMtUPr0FNovHLWd08RAM3ASACqKX1ggHcGTreKl6eKeqAjx4SmQ",
+  "points": 0,
+  "role": 0,
+  "cart": {
+    "items": [
+      {
+        "product": {
+          "$oid": "638dd6104f6a6538b14abe3e"
+        },
+        "amount": 2,
+        "currentSize": "XL",
+        "_id": {
+          "$oid": "64c71b027c8f57421e961c70"
+        }
+      },
+      {
+        "product": {
+          "$oid": "638ddd994f6a6538b14abef5"
+        },
+        "amount": 1,
+        "currentSize": "XL",
+        "_id": {
+          "$oid": "64c71b027c8f57421e961c71"
+        }
+      }
+    ],
+    "totalPrice": 695000,
+    "totalAmount": 3
+  },
+  "orders": [
+    {
+      "$oid": "63a830f5f17d3c4a02b88494"
+    },
+    {
+      "$oid": "63a8337f5614742c4d49cad4"
+    },
+    {
+      "$oid": "63a833f85614742c4d49cb2e"
+    },
+    {
+      "$oid": "63aa5b5e114f2354dbebc095"
+    },
+    {
+      "$oid": "63aa5ec0a1e954b903b590cb"
+    },
+    {
+      "$oid": "63aa6109a1e954b903b59115"
+    },
+    {
+      "$oid": "63aa6679a1e954b903b594bb"
+    },
+    {
+      "$oid": "63aa6949a1e954b903b594eb"
+    },
+    {
+      "$oid": "63aa695da1e954b903b59505"
+    }
+  ],
+  "__v": 9,
+  "address": "Nguyen Duy Trinh",
+  "phone": "0373439063"
+},{
+  "_id": {
+    "$oid": "639d4edb590d7f3e07cf6501"
+  },
+  "name": "Nguyễn Văn Đại",
+  "email": "nvdai1506@gmail.com",
+  "password": "$2a$12$LqR9s0lsOWZb9wQBnaVKq.LnPhbtq8abq09mjKQo9naYaITa3ZuDy",
+  "rfToken": "jicU6idWNEA8reshTQVNpFZPWs7cwYwE2W52hCBE08nRjhiDHHIo5ZpUzLVqHjYpRopwuhhdlE3JPkDQ",
+  "points": 0,
+  "role": 0,
+  "cart": {},
+  "orders": [
+    {
+      "$oid": "639d4ef6590d7f3e07cf651b"
+    }
+  ],
+  "__v": 1,
+  "address": "",
+  "phone": ""
+},{
+  "_id": {
+    "$oid": "639fde8d74ceeada4b342d03"
+  },
+  "name": "Nguyen Dai",
+  "email": "hugedragont@gmail.com",
+  "password": "$2a$12$cuwEJaRuyZcZDm2MFJHzlu/07WEC4/7MU9PYDOMagPJ2shq9EsaGa",
+  "rfToken": "Ne60D7aRhPi03sB5Xzjt5golwN4AFlIIKo8OE0WjW36SZmSL8bznQ8QxasFsj7CEPKmrKuNl5EozGmVt",
+  "points": 0,
+  "role": 0,
+  "cart": {},
+  "orders": [
+    {
+      "$oid": "63a018da5e317379714d21e4"
+    },
+    {
+      "$oid": "63a271a79b351d8f0449b912"
+    },
+    {
+      "$oid": "63a83c0381bf649153fc5113"
+    },
+    {
+      "$oid": "63a8482f47554eaed5f2c94e"
+    },
+    {
+      "$oid": "63a8513f5003b91354a385b4"
+    },
+    {
+      "$oid": "63aa70af9387fdc407b8ebc0"
+    },
+    {
+      "$oid": "63aa70f99387fdc407b8ebed"
+    },
+    {
+      "$oid": "63b7c02de5349dffc4a18faa"
+    },
+    {
+      "$oid": "63b7c17ac291a261432f92cf"
+    },
+    {
+      "$oid": "63b7c29ac291a261432f92fa"
+    },
+    {
+      "$oid": "63b7c3a7c291a261432f9310"
+    },
+    {
+      "$oid": "63b7c591c291a261432f9322"
+    },
+    {
+      "$oid": "63b7c5e3c291a261432f933e"
+    },
+    {
+      "$oid": "63b7c605c291a261432f9355"
+    },
+    {
+      "$oid": "63b7c61cc291a261432f9369"
+    },
+    {
+      "$oid": "63b7c640c291a261432f937b"
+    },
+    {
+      "$oid": "63b7c6cec291a261432f938c"
+    },
+    {
+      "$oid": "6412eac55c966b82e0b15bd1"
+    }
+  ],
+  "__v": 27,
+  "address": "Nguyen Duy Trinh",
+  "phone": "0373439063"
+},{
+  "_id": {
+    "$oid": "64ddc9ebb0d86ce2a6951725"
+  },
+  "name": "Charlie Averyez",
+  "email": "kesri@thepacbook.com",
+  "password": "$2a$12$gmL9arT7iBqQy8bQNtQM0e8/RtnOgP7qKaU8b32GBF2azBYBxjcMi",
+  "rfToken": "02SpRTipmH4FJ3jRES7kjQwpuhUyxfKKdIYTOpHJo6Tkb5j9fPJgKZsOBXUrxX3ItZNaXmhba0gLvf22",
+  "points": 0,
+  "role": 0,
+  "cart": {
+    "items": [
+      {
+        "product": {
+          "$oid": "638f12046898780969dfd13a"
+        },
+        "amount": 1,
+        "currentSize": "L",
+        "_id": {
+          "$oid": "64ddca12b0d86ce2a695173d"
+        }
+      }
+    ],
+    "totalPrice": 250000,
+    "totalAmount": 1
+  },
+  "orders": [],
+  "__v": 0,
+  "address": "",
+  "phone": ""
+}]

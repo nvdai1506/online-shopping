@@ -1,0 +1,27 @@
+.filter {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+  margin-bottom: 2rem;
+}
+.btn_containter {
+  gap: 1rem;
+  margin-right: auto;
+}
+.btn {
+  font-size: 1.6rem;
+}
+.btn:hover,
+.btn:active {
+  background-color: #66d9e8;
+}
+.btn_active {
+  background-color: #66d9e8;
+  color: black;
+}
+/* 1100 */
+@media (max-width: 68.75em) {
+  .filter {
+    display: none;
+  }
+}

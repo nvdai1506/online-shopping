@@ -1,0 +1,15 @@
+.cart_container {
+  gap: 5rem;
+}
+/*1200  */
+@media (max-width: 75em) {
+  .cart_container {
+    grid-template-columns: 1fr;
+  }
+}
+/* 600 */
+@media (max-width: 37.5em) {
+  .cart {
+    padding: 0;
+  }
+}

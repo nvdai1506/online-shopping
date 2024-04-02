@@ -1,0 +1,9 @@
+.sale {
+  width: 2rem;
+  border: none;
+  text-align: center;
+}
+.sale:focus {
+  outline: none;
+  color: blue;
+}

@@ -1,0 +1,11 @@
+.voucher_list {
+  width: 100%;
+  /* background-color: aqua; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ag_grid {
+  width: 90%;
+  height: 20rem;
+}

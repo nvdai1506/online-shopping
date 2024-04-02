@@ -1,0 +1,43 @@
+.main {
+  width: 40%;
+  /* background-color: aquamarine; */
+}
+.title {
+  margin: 2% 2%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.form {
+  text-align: left;
+  /* background-color: rgb(158, 90, 55); */
+  width: 100%;
+  margin: 2% 2%;
+  align-items: center;
+  display: flex;
+  /* gap: 1rem; */
+}
+.form label {
+  /* font-weight: bold; */
+  font-size: 1.5rem;
+  margin: 0 0;
+  padding: 0 0;
+}
+.form input {
+  height: 1.5rem;
+  margin: 0 0;
+}
+.btn_container,
+.input_container {
+  display: flex;
+}
+.btn_container {
+  margin-right: auto;
+}
+.input_container {
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.btn {
+  margin-left: 1rem;
+}
+/*  */

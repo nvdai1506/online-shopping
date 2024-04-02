@@ -1,0 +1,797 @@
+[{
+  "_id": {
+    "$oid": "63a07988f8ea4645701bbfb5"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c36485f"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "6394368d359773e78e71f78c"
+      },
+      "star": 5,
+      "comment": "ok",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1a972857e126eb1d962d6"
+      }
+    }
+  ],
+  "total": 1,
+  "average": 5,
+  "__v": 38
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364861"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "6394368d359773e78e71f78c"
+      },
+      "star": 3,
+      "comment": "tạm được",
+      "_id": {
+        "$oid": "63a17c97859b80be5ce7bb85"
+      },
+      " create": "2022-12-20T00:00:00.000+00:00"
+    },
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "6394386e359773e78e71f7ea"
+      },
+      "star": 4,
+      "comment": "ok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazingok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing\nok good!\nAmazing",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1c8742398659e415eef8a"
+      }
+    },
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "63a1432cee9b99f9fe757885"
+      },
+      "star": 4,
+      "comment": "",
+      "_id": {
+        "$oid": "63a1438cee9b99f9fe7578da"
+      },
+      "create": "2022-12-20T00:00:00.000+00:00"
+    },
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "6397ee0bd7fd66117c591ffc"
+      },
+      "star": 5,
+      "comment": "ok",
+      "create": {
+        "$date": {
+          "$numberLong": "1671580800000"
+        }
+      },
+      "_id": {
+        "$oid": "63a265bb5e3d36af41171403"
+      }
+    },
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "639803913f56079716455238"
+      },
+      "star": 5,
+      "comment": "Sản phẩm tốt",
+      "create": {
+        "$date": {
+          "$numberLong": "1671580800000"
+        }
+      },
+      "_id": {
+        "$oid": "63a2680675d49c8cae08585f"
+      }
+    }
+  ],
+  "total": 10,
+  "average": 4.6,
+  "__v": 22
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364864"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "63957e580f2f0a93501330e6"
+      },
+      "star": 5,
+      "comment": "Nice",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1c5872398659e415eeed2"
+      }
+    }
+  ],
+  "total": 1,
+  "average": 5,
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364867"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "6394386e359773e78e71f7ea"
+      },
+      "star": 5,
+      "comment": "",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1c5792398659e415eeec1"
+      }
+    },
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "63957e580f2f0a93501330e6"
+      },
+      "star": 4,
+      "comment": "Ok!!!!",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1c59e2398659e415eeee5"
+      }
+    }
+  ],
+  "total": 2,
+  "average": 4.5,
+  "__v": 6
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c36486a"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c36486d"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364870"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364873"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364876"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "6365cc3e9ff58aa3e3d85c84"
+      },
+      "order": {
+        "$oid": "63957e580f2f0a93501330e6"
+      },
+      "star": 5,
+      "comment": "Amazing!!!!",
+      "create": {
+        "$date": {
+          "$numberLong": "1671494400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a1c5922398659e415eeedb"
+      }
+    },
+    {
+      "user": {
+        "$oid": "639d3966e40bcb1fefcda70e"
+      },
+      "order": {
+        "$oid": "63a830f5f17d3c4a02b88494"
+      },
+      "star": 4,
+      "comment": "ok",
+      "create": {
+        "$date": {
+          "$numberLong": "1671926400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a831dcf17d3c4a02b884e4"
+      }
+    },
+    {
+      "user": {
+        "$oid": "639d3966e40bcb1fefcda70e"
+      },
+      "order": {
+        "$oid": "63a833f85614742c4d49cb2e"
+      },
+      "star": 4,
+      "comment": "nice",
+      "create": {
+        "$date": {
+          "$numberLong": "1671926400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a834225614742c4d49cb6d"
+      }
+    },
+    {
+      "user": {
+        "$oid": "639fde8d74ceeada4b342d03"
+      },
+      "order": {
+        "$oid": "63a271a79b351d8f0449b912"
+      },
+      "star": 5,
+      "comment": "ok",
+      "create": {
+        "$date": {
+          "$numberLong": "1672963200000"
+        }
+      },
+      "_id": {
+        "$oid": "63b79436d83125a3d58101dc"
+      }
+    }
+  ],
+  "total": 4,
+  "average": 4.5,
+  "__v": 4
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c364879"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c36487c"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1006155a275c36487f"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364882"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364885"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364888"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c36488b"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c36488e"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364891"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364894"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c364897"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c36489a"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c36489d"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648a0"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648a3"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648a6"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "639d3966e40bcb1fefcda70e"
+      },
+      "order": {
+        "$oid": "63a833f85614742c4d49cb2e"
+      },
+      "star": 5,
+      "comment": "amazing!!!\n",
+      "create": {
+        "$date": {
+          "$numberLong": "1671926400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a8342c5614742c4d49cb76"
+      }
+    }
+  ],
+  "total": 1,
+  "average": 5,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648a9"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648ac"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648af"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648b2"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1106155a275c3648b5"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648b8"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648bb"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648be"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648c1"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648c4"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648c7"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "639d3966e40bcb1fefcda70e"
+      },
+      "order": {
+        "$oid": "63a830f5f17d3c4a02b88494"
+      },
+      "star": 5,
+      "comment": "good",
+      "create": {
+        "$date": {
+          "$numberLong": "1671926400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a831e5f17d3c4a02b884ed"
+      }
+    }
+  ],
+  "total": 1,
+  "average": 5,
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648ca"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648cd"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648d0"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648d3"
+  },
+  "rate": [
+    {
+      "user": {
+        "$oid": "639d3966e40bcb1fefcda70e"
+      },
+      "order": {
+        "$oid": "63a830f5f17d3c4a02b88494"
+      },
+      "star": 5,
+      "comment": "perfect",
+      "create": {
+        "$date": {
+          "$numberLong": "1671926400000"
+        }
+      },
+      "_id": {
+        "$oid": "63a831eef17d3c4a02b884f6"
+      }
+    },
+    {
+      "user": {
+        "$oid": "639fde8d74ceeada4b342d03"
+      },
+      "order": {
+        "$oid": "63b7c6cec291a261432f938c"
+      },
+      "star": 5,
+      "comment": "",
+      "create": {
+        "$date": {
+          "$numberLong": "1672963200000"
+        }
+      },
+      "_id": {
+        "$oid": "63b7c726c291a261432f93ee"
+      }
+    },
+    {
+      "user": {
+        "$oid": "639fde8d74ceeada4b342d03"
+      },
+      "order": {
+        "$oid": "63b7c640c291a261432f937b"
+      },
+      "star": 4,
+      "comment": "ok",
+      "create": {
+        "$date": {
+          "$numberLong": "1672963200000"
+        }
+      },
+      "_id": {
+        "$oid": "63b7c72cc291a261432f93fb"
+      }
+    }
+  ],
+  "total": 3,
+  "average": 4.666666666666667,
+  "__v": 3
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648d6"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648d9"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648dc"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648df"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648e2"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648e5"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648e8"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1206155a275c3648eb"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648ee"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648f1"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648f4"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648f7"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648fa"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c3648fd"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a07b1306155a275c364900"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7b2ed5afb69c5321c4d0d"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7b2f85afb69c5321c4d16"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b7bf5be5349dffc4a18f53"
+  },
+  "rate": [],
+  "total": 0,
+  "average": 0,
+  "__v": 0
+}]

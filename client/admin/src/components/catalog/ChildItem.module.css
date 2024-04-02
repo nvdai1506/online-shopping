@@ -1,0 +1,25 @@
+.main{
+    width: 80%;
+    height: 100%;
+    background-color: rgb(181, 181, 227);
+    margin: 1px 0px;
+    padding: 0px 0px;
+    margin-left:20%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.title{
+    width: 30%;
+}
+.main h3{
+    margin-left: 5%;
+}
+.btn{
+    width: 6rem;
+}
+.main button{
+    height: 2rem;
+    margin-right: 1rem;
+}

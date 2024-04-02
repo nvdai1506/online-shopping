@@ -1,0 +1,14 @@
+.loading {
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(6, 6, 6, 0.3);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.color {
+  color: #fff;
+}

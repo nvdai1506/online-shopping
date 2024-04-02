@@ -1,0 +1,150 @@
+.footer {
+  /* display: grid; */
+  grid-template-columns: 1fr;
+  /* align-items: start; */
+  justify-items: center;
+  background-color: #1a1a1a;
+  padding-bottom: 8rem;
+  margin-top: 8rem !important;
+  padding: 0 4%;
+  font-size: 1.6rem;
+
+  gap: 2rem;
+}
+.logo_container {
+  margin-top: 4rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  align-items: center;
+  justify-items: center;
+}
+.logo {
+  width: 10rem;
+  height: 10rem;
+}
+.logo img {
+  width: 100%;
+}
+.copyright {
+  font-size: 1.4rem;
+  line-height: 1.6;
+  color: gray;
+  text-align: center;
+}
+.second_row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  align-items: start;
+  justify-items: center;
+
+  gap: 8rem;
+  margin: 2rem;
+  color: #dee2e6;
+}
+.contact_container {
+  gap: 1rem;
+}
+.footer_title {
+  margin-bottom: 2rem;
+}
+.social {
+  display: flex;
+  justify-content: flex-start;
+}
+.social_links {
+  gap: 1rem;
+  justify-self: start;
+}
+.social_links li {
+  list-style: none;
+}
+.social_icon {
+  font-size: 3rem;
+  transition: all 0.3s;
+}
+.social_icon:hover {
+  color: #66d9e8;
+}
+.contacts {
+  gap: 2rem;
+}
+.footer_link:link,
+.footer_link:visited {
+  display: inline-block;
+  text-decoration: none;
+  margin-bottom: 2rem;
+  color: #dee2e6;
+  transition: all 0.3s;
+}
+.footer_link:hover,
+.footer_link:active {
+  color: #66d9e8;
+}
+
+/*  */
+.account,
+.company,
+.resources {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+}
+.title_container {
+  display: flex;
+}
+.items {
+  margin-top: auto;
+}
+.address {
+  color: #dee2e6;
+  margin-bottom: 8rem;
+  text-align: center;
+}
+/* 965 */
+@media (max-width: 61em) {
+  .footer {
+    font-size: 1.2rem;
+  }
+  .second_row {
+    width: 100%;
+    gap: 4rem;
+  }
+  .footer_title {
+    font-size: 2.4rem;
+  }
+  .social_icon {
+    font-size: 2rem;
+  }
+}
+/* 720 */
+@media (max-width: 45em) {
+  .footer_title {
+    font-size: 1.8rem;
+  }
+  .footer_link:link,
+  .footer_link:visited {
+    margin-bottom: 1rem;
+  }
+  .second_row {
+    width: 100%;
+    gap: 1rem;
+  }
+  .logo img {
+    width: 80%;
+  }
+  .copyright {
+    font-size: 1.2rem;
+  }
+}
+/* 600 */
+@media (max-width: 37.5em) {
+  .second_row {
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 4rem;
+  }
+  .address {
+    text-align: center;
+  }
+}

@@ -1,0 +1,411 @@
+[{
+  "_id": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parent": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "title": "Áo Thun",
+  "products": [
+    {
+      "$oid": "636f61b97bae55b861867c1e"
+    },
+    {
+      "$oid": "6370554e9719269ea3d00b9b"
+    },
+    {
+      "$oid": "637447266e7b2a735a349259"
+    },
+    {
+      "$oid": "638b04bdfaf633439a76307f"
+    },
+    {
+      "$oid": "638ddd224f6a6538b14abec0"
+    },
+    {
+      "$oid": "638ddd2b4f6a6538b14abec6"
+    },
+    {
+      "$oid": "638ddd354f6a6538b14abecd"
+    },
+    {
+      "$oid": "638ddd3c4f6a6538b14abed3"
+    },
+    {
+      "$oid": "638ddd4c4f6a6538b14abed9"
+    }
+  ],
+  "__v": 43,
+  "salesFigures": [
+    {
+      "numProducts": 3,
+      "turnovers": 350000,
+      "date": "2022-11-16T21:07:43+07:00",
+      "_id": {
+        "$oid": "6374eeafb24e0ef7ad926e3e"
+      }
+    },
+    {
+      "numProducts": 1,
+      "turnovers": 110000,
+      "date": "2022-11-17T11:00:18+07:00",
+      "_id": {
+        "$oid": "6375b1d27a56986105d3b15a"
+      }
+    },
+    {
+      "numProducts": 2,
+      "turnovers": 220000,
+      "date": "Fri Nov 18 2022 10:36:55 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "6376fdd7708ce1c6a54ef981"
+      }
+    },
+    {
+      "numProducts": 14,
+      "turnovers": 1540000,
+      "date": "Sun Nov 20 2022 09:44:03 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "637994731553fe29ca4e3e86"
+      }
+    }
+  ],
+  "value": "ao-thun"
+},{
+  "_id": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parent": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "title": "Ao Sơ Mi",
+  "products": [
+    {
+      "$oid": "6374475a6e7b2a735a349265"
+    },
+    {
+      "$oid": "638dc1264f6a6538b14abdc7"
+    },
+    {
+      "$oid": "638dd6104f6a6538b14abe3e"
+    },
+    {
+      "$oid": "638dd6184f6a6538b14abe43"
+    },
+    {
+      "$oid": "638dd6284f6a6538b14abe48"
+    },
+    {
+      "$oid": "638ddd8d4f6a6538b14abee9"
+    },
+    {
+      "$oid": "638ddd934f6a6538b14abeef"
+    },
+    {
+      "$oid": "638ddd994f6a6538b14abef5"
+    },
+    {
+      "$oid": "638ddd9f4f6a6538b14abefb"
+    },
+    {
+      "$oid": "638ddda54f6a6538b14abf01"
+    }
+  ],
+  "__v": 26,
+  "salesFigures": [
+    {
+      "numProducts": 1,
+      "turnovers": 150000,
+      "date": "2022-11-16T21:09:20+07:00",
+      "_id": {
+        "$oid": "6374ef10b24e0ef7ad926e5b"
+      }
+    },
+    {
+      "numProducts": 1,
+      "turnovers": 150000,
+      "date": "2022-11-17T11:00:19+07:00",
+      "_id": {
+        "$oid": "6375b1d37a56986105d3b165"
+      }
+    },
+    {
+      "numProducts": 2,
+      "turnovers": 300000,
+      "date": "Fri Nov 18 2022 10:36:55 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "6376fdd7708ce1c6a54ef98f"
+      }
+    },
+    {
+      "numProducts": 14,
+      "turnovers": 2100000,
+      "date": "Sun Nov 20 2022 09:44:03 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "637994731553fe29ca4e3e97"
+      }
+    }
+  ],
+  "value": "ao-so-mi"
+},{
+  "_id": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parent": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "title": "Áo khoác",
+  "products": [
+    {
+      "$oid": "638dddd24f6a6538b14abf0a"
+    },
+    {
+      "$oid": "638dddda4f6a6538b14abf10"
+    },
+    {
+      "$oid": "638ddde04f6a6538b14abf16"
+    },
+    {
+      "$oid": "638ddde84f6a6538b14abf1c"
+    },
+    {
+      "$oid": "638ddded4f6a6538b14abf22"
+    },
+    {
+      "$oid": "638dddf34f6a6538b14abf28"
+    },
+    {
+      "$oid": "638dddf94f6a6538b14abf2e"
+    }
+  ],
+  "__v": 7,
+  "value": "ao-khoac"
+},{
+  "_id": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parent": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "title": "Quần Jogger",
+  "products": [
+    {
+      "$oid": "6374477c6e7b2a735a349270"
+    },
+    {
+      "$oid": "637447926e7b2a735a34927a"
+    },
+    {
+      "$oid": "638f12046898780969dfd13a"
+    },
+    {
+      "$oid": "638f120e6898780969dfd144"
+    },
+    {
+      "$oid": "638f12166898780969dfd14e"
+    },
+    {
+      "$oid": "638f12316898780969dfd15c"
+    }
+  ],
+  "__v": 14,
+  "salesFigures": [
+    {
+      "numProducts": 1,
+      "turnovers": 180000,
+      "date": "2022-11-16T21:10:30+07:00",
+      "_id": {
+        "$oid": "6374ef56b24e0ef7ad926e7f"
+      }
+    },
+    {
+      "numProducts": 3,
+      "turnovers": 540000,
+      "date": "2022-11-17T10:44:00+07:00",
+      "_id": {
+        "$oid": "6375ae00c7f11e2d977f452a"
+      }
+    },
+    {
+      "numProducts": 3,
+      "turnovers": 540000,
+      "date": "Sun Nov 20 2022 10:46:22 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "6379a30e1553fe29ca4e44f0"
+      }
+    }
+  ],
+  "value": "quan-jogger"
+},{
+  "_id": {
+    "$oid": "637447d66e7b2a735a34929b"
+  },
+  "parent": {
+    "$oid": "637447cf6e7b2a735a349292"
+  },
+  "title": "Nón",
+  "products": [
+    {
+      "$oid": "63745bbf9fd53edab71ee632"
+    },
+    {
+      "$oid": "63b7b2ee5afb69c5321c4d0f"
+    },
+    {
+      "$oid": "63b7b2f85afb69c5321c4d18"
+    }
+  ],
+  "__v": 13,
+  "salesFigures": [
+    {
+      "numProducts": 1,
+      "turnovers": 200000,
+      "date": "2022-11-16T21:10:30+07:00",
+      "_id": {
+        "$oid": "6374ef56b24e0ef7ad926e78"
+      }
+    },
+    {
+      "numProducts": 3,
+      "turnovers": 600000,
+      "date": "2022-11-17T10:44:00+07:00",
+      "_id": {
+        "$oid": "6375ae00c7f11e2d977f451f"
+      }
+    },
+    {
+      "numProducts": 3,
+      "turnovers": 600000,
+      "date": "Sun Nov 20 2022 10:46:22 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "6379a30e1553fe29ca4e44e2"
+      }
+    }
+  ],
+  "value": "non"
+},{
+  "_id": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parent": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "title": "Ba lỗ",
+  "products": [
+    {
+      "$oid": "638dde1e4f6a6538b14abf37"
+    },
+    {
+      "$oid": "638dde254f6a6538b14abf3e"
+    },
+    {
+      "$oid": "638dde254f6a6538b14abf43"
+    },
+    {
+      "$oid": "638dde2c4f6a6538b14abf49"
+    },
+    {
+      "$oid": "638dde324f6a6538b14abf4f"
+    },
+    {
+      "$oid": "638dde374f6a6538b14abf55"
+    }
+  ],
+  "__v": 6,
+  "value": "ao-ba-lo"
+},{
+  "_id": {
+    "$oid": "638dda094f6a6538b14abe8f"
+  },
+  "parent": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "title": "Jeans",
+  "products": [
+    {
+      "$oid": "638f136c6898780969dfd182"
+    },
+    {
+      "$oid": "638f13776898780969dfd18c"
+    },
+    {
+      "$oid": "638f13806898780969dfd196"
+    },
+    {
+      "$oid": "638f138a6898780969dfd1a0"
+    }
+  ],
+  "__v": 4,
+  "value": "quan-jean"
+},{
+  "_id": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parent": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "title": "Quần Short",
+  "products": [
+    {
+      "$oid": "638f14126898780969dfd1d5"
+    },
+    {
+      "$oid": "638f14226898780969dfd1df"
+    },
+    {
+      "$oid": "638f142d6898780969dfd1e9"
+    },
+    {
+      "$oid": "638f14396898780969dfd1f5"
+    },
+    {
+      "$oid": "638f14486898780969dfd201"
+    },
+    {
+      "$oid": "638f14516898780969dfd209"
+    }
+  ],
+  "__v": 11,
+  "value": "quan-short"
+},{
+  "_id": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parent": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "title": "Quần Tây",
+  "products": [
+    {
+      "$oid": "638f14736898780969dfd21b"
+    },
+    {
+      "$oid": "638f147b6898780969dfd223"
+    },
+    {
+      "$oid": "638f14816898780969dfd22b"
+    },
+    {
+      "$oid": "638f148c6898780969dfd235"
+    },
+    {
+      "$oid": "638f14946898780969dfd23d"
+    },
+    {
+      "$oid": "638f149c6898780969dfd247"
+    }
+  ],
+  "__v": 6,
+  "value": "quan-tay"
+},{
+  "_id": {
+    "$oid": "63b7b2025afb69c5321c4cdd"
+  },
+  "parent": {
+    "$oid": "6374da90394b901101c25b19"
+  },
+  "title": "Bao Lô A1",
+  "value": "bao-lo-a1",
+  "products": [],
+  "__v": 0
+}]

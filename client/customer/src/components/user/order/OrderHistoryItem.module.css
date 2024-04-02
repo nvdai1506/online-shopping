@@ -1,0 +1,75 @@
+.image {
+  height: 15rem;
+  justify-self: center;
+}
+.title {
+  font-size: 1.8rem;
+  cursor: pointer;
+}
+.size,
+.price,
+.amount,
+.total_item {
+  font-size: 1.2rem;
+}
+.actions {
+  display: flex;
+  gap: 1rem;
+  justify-content: flex-end;
+  margin-right: auto;
+  padding-right: 1rem;
+  margin-bottom: 1rem;
+}
+.btn {
+  /* background-color: white; */
+  padding: 1rem 2rem;
+  border: none;
+  /* border: 1px solid rgba(144, 144, 144, 0.7); */
+  border-radius: 8px;
+  box-shadow: 0px 2px 2px rgba(33, 37, 41, 0.1);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+.btn:hover,
+.btn:active {
+  background-color: #66d9e8;
+}
+/* 900px */
+@media (max-width: 57em) {
+  .title {
+    font-size: 1.6rem;
+    line-height: 1.2;
+  }
+  .btn {
+    padding: 0.8rem 1.6rem;
+  }
+}
+/* 687px */
+
+@media (max-width: 43em) {
+  .title {
+    font-size: 1.2rem;
+    line-height: 1.2;
+  }
+  .image {
+    height: 10rem;
+    padding-left: 0.5rem;
+  }
+  .btn {
+    padding: 0.6rem 1.2rem;
+  }
+}
+/* 320 */
+
+@media (max-width: 20em) {
+  .title {
+    font-size: 1rem;
+    line-height: 1.2;
+  }
+  .total_item {
+    font-size: 1rem;
+  }
+  .btn {
+    padding: 0.5rem 1rem;
+  }
+}

@@ -1,0 +1,27 @@
+.ordering{
+    width: 100%;
+    
+}
+.ordered {
+    width: 100%;
+    
+}
+.ordering td{
+    background-color:rgb(117, 138, 206) ;
+    height: 1rem;
+    margin: 1px 1px;
+    padding: 0 5px;
+    text-align: center;
+    
+}
+.ordered td{
+    background-color:rgb(147, 236, 163) ;
+    height: 1rem;
+    margin: 1px 1px;
+    padding: 0 5px;
+    text-align: center;
+}
+.btn{
+    font-size: 0.6rem;
+    margin: 1% 1%;
+}

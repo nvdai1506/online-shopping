@@ -1,0 +1,90 @@
+version: "3"
+services:
+  redis:
+    image: "redis"
+    restart: unless-stopped
+    command: ["redis-server", "--bind", "redis", "--port", "6379"]
+    networks:
+      - online-shopping-network
+
+  mongodb:
+    container_name: online-shop-db
+    image: mongo:4.2
+    environment:
+      - MONGO_INITDB_ROOT_USERNAME=admin
+      - MONGO_INITDB_DATABASE=onlineShop
+      - MONGO_INITDB_ROOT_PASSWORD=123123
+    ports:
+      - "27017:27017"
+    volumes:
+      - ./data:/app/data
+    networks:
+      - online-shopping-network
+
+  backend:
+    restart: on-failure
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./server
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./server:/app/server
+    depends_on:
+      - redis
+      - mongodb
+    # env_file:
+    #   - ./server/.env
+    environment:
+      - REDIS_HOST=redis
+      - REDIS_PORT=6379
+      - ACCESSTOKEN_SECRET_KEY=nVdai1506
+      - ACCESSTOKEN_EXPIRES_IN=1d
+      - MONGODB_URI=mongodb://admin:123123@mongodb:27017/onlineShop?authSource=admin
+      - WEBPUSH_PUBLIC_KEY=BGA6DWy9kcp3ExfMLsRJX4XdfqU89KZenuIJy9zShBNFzb2B2aBRlFUOGLgRatB5T9xCRbGQYsUboERR7oZj1xY
+      - WEBPUSH_PRIVATE_KEY=6LA-TnI2PMQ9FLUMyWsIeGt5PEJfgTFEYCwfwGnfHLA
+    networks:
+      - online-shopping-network
+
+  frontend-admin:
+    restart: on-failure
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./client/admin
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./client/admin:/app/client/admin
+    depends_on:
+      - backend
+    # env_file:
+    #   - ./client/admin/.env
+    environment:
+      - REACT_APP_DOMAIN=http://localhost:8080
+    networks:
+      - online-shopping-network
+
+  frontend-client:
+    restart: on-failure
+    build:
+      dockerfile: Dockerfile.dev
+      context: ./client/customer
+    ports:
+      - "3001:3001"
+    volumes:
+      - ./client/customer:/app/client/customer
+    depends_on:
+      - backend
+    # env_file:
+    #   - ./client/customer/.env
+    environment:
+      - REACT_APP_DOMAIN=http://localhost:8080
+      - REACT_APP_GOOGLE_CLIENT_ID=294663668712-s4ae7le7q6jmjqn2bmtlilpabvk06drl.apps.googleusercontent.com
+      - REACT_APP_Facebook_APP_ID=488211450087339
+      - REACT_APP_SECRET_KEY_TO_UPDATE_ORDER=nVdai1506
+    networks:
+      - online-shopping-network
+
+networks:
+  online-shopping-network:
+    driver: bridge

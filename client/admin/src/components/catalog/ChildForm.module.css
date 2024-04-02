@@ -1,0 +1,42 @@
+.main {
+  width: 40%;
+  /* background-color: rgb(101, 53, 96); */
+}
+.title {
+  margin: 2% 2%;
+  font-size: 2rem;
+  font-weight: bold;
+}
+.form {
+  width: 105%;
+  margin: 2% 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.form label {
+  /* font-weight: bold; */
+  font-size: 1.5rem;
+}
+.form input {
+  height: 1.5rem;
+}
+/* select */
+.select {
+  width: 20%;
+  height: 2rem;
+  margin-right: 2%;
+}
+.input {
+  font-weight: normal;
+  height: 20px;
+}
+.input_container {
+  display: flex;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+.btn_container {
+  display: flex;
+  gap: 0.5rem;
+}

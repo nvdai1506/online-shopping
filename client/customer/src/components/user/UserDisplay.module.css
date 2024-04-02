@@ -1,0 +1,13 @@
+.display_container {
+  grid-column: span 2;
+  min-height: 82vh;
+}
+/* 651 */
+@media (max-width: 40.7em) {
+  .menu {
+    display: none;
+  }
+  .display_container {
+    grid-column: 1/-1;
+  }
+}

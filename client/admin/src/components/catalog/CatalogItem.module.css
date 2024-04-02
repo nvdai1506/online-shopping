@@ -1,0 +1,19 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(51, 75, 210);
+    margin: 0 0;
+    text-align: center;
+}
+
+.main h3{
+    margin-left: 1rem;
+}
+.main button{
+    height: 2rem;
+    margin-right: 1rem;
+}
+.btn{
+    width: 6rem;
+}

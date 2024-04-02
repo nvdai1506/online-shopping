@@ -1,0 +1,1238 @@
+[{
+  "_id": {
+    "$oid": "637447266e7b2a735a349259"
+  },
+  "title": "Áo Thun Cổ Tròn Ngân Hà Astronaut M1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/4eae9311-4e05-4322-90d4-3a0046d8eaaa-1grey_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 120000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 34,
+  "featuredProduct": 1,
+  "sale": 20,
+  "rate": {
+    "$oid": "63a07b1006155a275c36485f"
+  }
+},{
+  "_id": {
+    "$oid": "6374475a6e7b2a735a349265"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/154b907a-c678-4ee5-b62e-10333a4e0b02-excoolsomiden_52.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 160000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 54,
+  "featuredProduct": 0,
+  "sale": 20,
+  "rate": {
+    "$oid": "63a07b1006155a275c364861"
+  }
+},{
+  "_id": {
+    "$oid": "6374477c6e7b2a735a349270"
+  },
+  "title": "Quần Jogger Tối Giản A01",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/f6d1baf2-7768-44f0-b75f-1f86659f75b2-ezgif.com-gif-maker (1).png",
+  "material": "Cototn",
+  "size": "S M L XL",
+  "price": 190000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "totalSoldProducts": 10,
+  "featuredProduct": 1,
+  "sale": 15,
+  "rate": {
+    "$oid": "63a07b1006155a275c364864"
+  }
+},{
+  "_id": {
+    "$oid": "637447926e7b2a735a34927a"
+  },
+  "title": "Quần Jogger Đơn Giản Thần Cổ Đại Horus Ver1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/fd518009-d101-4424-8e60-5f523c80cd65-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 180000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 2,
+  "salesFigures": [
+    {
+      "numProducts": 3,
+      "turnovers": 540000,
+      "date": "2022-11-17T10:44:00+07:00",
+      "_id": {
+        "$oid": "6375ae00c7f11e2d977f4527"
+      }
+    },
+    {
+      "numProducts": 3,
+      "turnovers": 540000,
+      "date": "Sun Nov 20 2022 10:46:22 GMT+0700 (Indochina Time)",
+      "_id": {
+        "$oid": "6379a30e1553fe29ca4e44f6"
+      }
+    }
+  ],
+  "totalSoldProducts": 8,
+  "featuredProduct": 1,
+  "sale": 10,
+  "rate": {
+    "$oid": "63a07b1006155a275c364867"
+  }
+},{
+  "_id": {
+    "$oid": "63745bbf9fd53edab71ee632"
+  },
+  "title": "PKTT Nón Thần Cổ Đại Anubis Ver3",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \r\n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\r\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\r\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\r\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\r\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/bf3bb939-406f-4f08-a3d5-dd14762e5039-mu-classic-cap-theu-logo-coolmate-den-xam-3.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 145000,
+  "childCatalog": {
+    "$oid": "637447d66e7b2a735a34929b"
+  },
+  "parentCatalog": {
+    "$oid": "637447cf6e7b2a735a349292"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 56,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1006155a275c364870"
+  }
+},{
+  "_id": {
+    "$oid": "638b04bdfaf633439a76307f"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/96490307-1566-405a-9a2f-93b4bb510389-tee_recycle_v2_xanh_navy_6.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 16000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 68,
+  "featuredProduct": 0,
+  "sale": 50,
+  "rate": {
+    "$oid": "63a07b1006155a275c364873"
+  }
+},{
+  "_id": {
+    "$oid": "638dc1264f6a6538b14abdc7"
+  },
+  "title": "Áo Sơ mi nam Excool Limited ngắn tay chui đầu",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/fa594ff6-369a-45e4-ba70-a0deb27cd44e-cfaqua_78.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 260000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 54,
+  "featuredProduct": 1,
+  "sale": 15,
+  "rate": {
+    "$oid": "63a07b1006155a275c364876"
+  }
+},{
+  "_id": {
+    "$oid": "638dd6104f6a6538b14abe3e"
+  },
+  "title": "Áo sơ mi nam dài tay Café-DriS khử mùi hiệu quả",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/1b307da7-0382-4596-8f5d-3fb855e218c3-excoolsominavy_47.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 230000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 24,
+  "featuredProduct": 1,
+  "sale": 20,
+  "rate": {
+    "$oid": "63a07b1006155a275c364879"
+  }
+},{
+  "_id": {
+    "$oid": "638dd6184f6a6538b14abe43"
+  },
+  "title": "Áo sơ mi nam dài tay Café-DriS khử mùi hiệu quả",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/04bada98-dea9-4c2e-a5ef-8e4548b97280-uIMG_1035_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 230000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 22,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1006155a275c36487c"
+  }
+},{
+  "_id": {
+    "$oid": "638dd6284f6a6538b14abe48"
+  },
+  "title": "Áo sơ mi nam dài tay Café-DriS khử mùi hiệu quả",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/200cb998-592e-40da-855c-ca6b4d73124b-excoolsomixam_83-_1_.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 230000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 4,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1006155a275c36487f"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd224f6a6538b14abec0"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/fefa442d-3fb0-48fd-bde3-dc3f85cd1c38-1grey_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 160000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 60,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c364882"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd2b4f6a6538b14abec6"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/eb6d010a-9840-4f4f-aa81-edbfc7ff3cca-tee_recycle_v2_xanh_navy_6.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 165000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c364885"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd354f6a6538b14abecd"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/ca436bd7-386f-41f2-b7ec-6edd10d2cc54-1grey_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 175000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 4,
+  "featuredProduct": 0,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c364888"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd3c4f6a6538b14abed3"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/6667aa58-98d9-4c9b-aace-db91d1a471fa-tee_recycle_v2_xanh_navy_6.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 185000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c36488b"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd4c4f6a6538b14abed9"
+  },
+  "title": "Áo Thun Cổ Tròn Linh Vật Bbuff Ver10",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/8552dbf8-89f9-4072-b9e3-46c12b371eec-1grey_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "636c5f4a32f2b6393813aa23"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 1,
+  "rate": {
+    "$oid": "63a07b1106155a275c36488e"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd8d4f6a6538b14abee9"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/6b769391-eb0d-4991-ba68-8a6892b66eb2-cfaqua_78.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 210000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 22,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c364891"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd934f6a6538b14abeef"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/4c6f8ccc-54f5-4d94-8dfb-60832eda85da-uIMG_1035_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 215000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 4,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c364894"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd994f6a6538b14abef5"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/b1c9dfbe-7093-4813-9e70-73d19f9f5edf-excoolsomixam_83.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 235000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 1,
+  "sale": 0,
+  "totalSoldProducts": 14,
+  "rate": {
+    "$oid": "63a07b1106155a275c364897"
+  }
+},{
+  "_id": {
+    "$oid": "638ddd9f4f6a6538b14abefb"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/ce5e018f-87de-4485-a5bf-1f43a0904e90-uIMG_1035_copy.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 225000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c36489a"
+  }
+},{
+  "_id": {
+    "$oid": "638ddda54f6a6538b14abf01"
+  },
+  "title": "Áo Sơ Mi Tay Ngắn Sợi Poly Đơn Giản Y Nguyên Bản Ver27",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/5a8f96a4-75ee-42f9-8c02-8a4e1bda2ca4-excoolsominavy_47.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 265000,
+  "childCatalog": {
+    "$oid": "636e17b3db42592a2cb77b90"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c36489d"
+  }
+},{
+  "_id": {
+    "$oid": "638dddd24f6a6538b14abf0a"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/784fd07f-0bd3-4017-a73f-a108bbb7ac33-NNjac213.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 265000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648a0"
+  }
+},{
+  "_id": {
+    "$oid": "638dddda4f6a6538b14abf10"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/01793199-3ccf-4b94-881d-bd6ffa9b0bc6-uvspport_22.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 275000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648a3"
+  }
+},{
+  "_id": {
+    "$oid": "638ddde04f6a6538b14abf16"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/0fdb9a5a-d537-4bbd-ba58-f4b9138e1df6-NNjac213.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 285000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 7,
+  "featuredProduct": 0,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648a6"
+  }
+},{
+  "_id": {
+    "$oid": "638ddde84f6a6538b14abf1c"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/a8c38656-ce5d-4c8d-9d65-0083b0646dd7-uvspport_22.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 295000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "totalSoldProducts": 4,
+  "featuredProduct": 0,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648a9"
+  }
+},{
+  "_id": {
+    "$oid": "638ddded4f6a6538b14abf22"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/100cd001-88e7-45a0-8f79-3924f88eb538-NNjac213.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 255000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648ac"
+  }
+},{
+  "_id": {
+    "$oid": "638dddf34f6a6538b14abf28"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/231c39cc-31f7-4abd-9ef0-a2c4ac34a3b9-uvspport_22.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 275000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648af"
+  }
+},{
+  "_id": {
+    "$oid": "638dddf94f6a6538b14abf2e"
+  },
+  "title": "Áo khoác gió thể thao HeiQ ViroBlock, chống UV & trượt nước",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/1c46abf1-7c11-4c6f-aee4-bdb2367d078b-NNjac213.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 245000,
+  "childCatalog": {
+    "$oid": "6371a8ad145d90c066ff28a0"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648b2"
+  }
+},{
+  "_id": {
+    "$oid": "638dde1e4f6a6538b14abf37"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/f986d408-5f16-42b4-9705-1186d84402b0-3lo_Navy_1.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 245000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1106155a275c3648b5"
+  }
+},{
+  "_id": {
+    "$oid": "638dde254f6a6538b14abf3e"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/815be75b-2a3e-4447-b005-87960a722afb-3lo_trang_1.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 145000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648b8"
+  }
+},{
+  "_id": {
+    "$oid": "638dde254f6a6538b14abf43"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/766c7e5c-1d0c-4618-a0ab-d74d0cc98516-3lo_trang_1.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 145000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648bb"
+  }
+},{
+  "_id": {
+    "$oid": "638dde2c4f6a6538b14abf49"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/98cf50cc-a2d2-4b05-b298-df0a66119811-drimints.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 155000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648be"
+  }
+},{
+  "_id": {
+    "$oid": "638dde324f6a6538b14abf4f"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/3fe0c33b-9b81-42ea-89e9-c8f0ff7fd32d-Tank_xam_dam_2d.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 165000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648c1"
+  }
+},{
+  "_id": {
+    "$oid": "638dde374f6a6538b14abf55"
+  },
+  "title": "Áo Tank Top thể thao nam Recycle Active V1",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/7d79ede8-e81a-47cb-837d-f51497b97211-3lo_trang_1.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 175000,
+  "childCatalog": {
+    "$oid": "638dd9f34f6a6538b14abe7b"
+  },
+  "parentCatalog": {
+    "$oid": "636c5f3732f2b6393813aa1d"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648c4"
+  }
+},{
+  "_id": {
+    "$oid": "638f12046898780969dfd13a"
+  },
+  "title": "Quần Jogger Tối Giản A01",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/d1aa8b5d-730f-4b7c-9d5b-8fa3895ee018-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 250000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "totalSoldProducts": 12,
+  "featuredProduct": 1,
+  "sale": 25,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648c7"
+  }
+},{
+  "_id": {
+    "$oid": "638f120e6898780969dfd144"
+  },
+  "title": "Quần Jogger Tối Giản A02",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/309b9f76-f0f9-41cb-8cd1-2b28b38d8224-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 265000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 6,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648ca"
+  }
+},{
+  "_id": {
+    "$oid": "638f12166898780969dfd14e"
+  },
+  "title": "Quần Jogger Tối Giản A03",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/2a216117-5aa2-43a5-a979-111a21681185-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 275000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648cd"
+  }
+},{
+  "_id": {
+    "$oid": "638f12316898780969dfd15c"
+  },
+  "title": "Quần Jogger Tối Giản A04",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/7dc1bf81-bfc9-490c-bc32-ffe221eb1e1c-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 285000,
+  "childCatalog": {
+    "$oid": "637237f6bacce0fca991158e"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 1,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648d0"
+  }
+},{
+  "_id": {
+    "$oid": "638f136c6898780969dfd182"
+  },
+  "title": "Quần Jeans Tối Giản A02",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/ae0c79ee-2898-4bc4-b011-e70f346723da-32-0.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 285000,
+  "childCatalog": {
+    "$oid": "638dda094f6a6538b14abe8f"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 1,
+  "sale": 0,
+  "totalSoldProducts": 7,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648d3"
+  }
+},{
+  "_id": {
+    "$oid": "638f13776898780969dfd18c"
+  },
+  "title": "Quần Jeans Tối Giản A03",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/0107b10c-adfb-48d0-a7ef-50b6ff36cb2d-33-0.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 295000,
+  "childCatalog": {
+    "$oid": "638dda094f6a6538b14abe8f"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 1,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648d6"
+  }
+},{
+  "_id": {
+    "$oid": "638f13806898780969dfd196"
+  },
+  "title": "Quần Jeans Tối Giản A04",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/5d924e37-4d15-4002-8f38-f685b7fc5cb2-32-0.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 285000,
+  "childCatalog": {
+    "$oid": "638dda094f6a6538b14abe8f"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "totalSoldProducts": 4,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648d9"
+  }
+},{
+  "_id": {
+    "$oid": "638f138a6898780969dfd1a0"
+  },
+  "title": "Quần Jeans Tối Giản A05",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/e9efa2f1-2eed-43eb-9e72-6b5ba98fd28e-33-0.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 385000,
+  "childCatalog": {
+    "$oid": "638dda094f6a6538b14abe8f"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "totalSoldProducts": 6,
+  "featuredProduct": 1,
+  "sale": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648dc"
+  }
+},{
+  "_id": {
+    "$oid": "638f14126898780969dfd1d5"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo)",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/12fddd48-d9c7-424f-a1f2-e2899eaec2a9-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 160000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648df"
+  }
+},{
+  "_id": {
+    "$oid": "638f14226898780969dfd1df"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 02",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/2f6bf6f5-73a8-401d-8a29-ecf7c735e7fe-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 170000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 1,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648e2"
+  }
+},{
+  "_id": {
+    "$oid": "638f142d6898780969dfd1e9"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 03",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/16dcad5c-d37e-4bc6-beba-c4badca311a6-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 175000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 2,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648e5"
+  }
+},{
+  "_id": {
+    "$oid": "638f14396898780969dfd1f5"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 04",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/ae5ebd49-d8ba-47d1-920a-fe500ee46678-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 185000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648e8"
+  }
+},{
+  "_id": {
+    "$oid": "638f14486898780969dfd201"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 05",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/6c058c8b-7907-4eb2-86e9-1769476bf2de-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1206155a275c3648eb"
+  }
+},{
+  "_id": {
+    "$oid": "638f14516898780969dfd209"
+  },
+  "title": "Quần shorts nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 06",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/c7f641fc-3b37-4f16-ab1a-b4945de8ceed-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "638dda184f6a6538b14abe9c"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648ee"
+  }
+},{
+  "_id": {
+    "$oid": "638f14736898780969dfd21b"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 06",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/a234d053-d45d-49a0-9db6-5a69253bdbde-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648f1"
+  }
+},{
+  "_id": {
+    "$oid": "638f147b6898780969dfd223"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 01",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/4238838c-c6d2-4e92-980c-d3af8d82d17c-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648f4"
+  }
+},{
+  "_id": {
+    "$oid": "638f14816898780969dfd22b"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 02",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/66ace816-ecec-4f65-9eba-6831236c6a19-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 195000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 1,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648f7"
+  }
+},{
+  "_id": {
+    "$oid": "638f148c6898780969dfd235"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 03",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/c167dbe6-df4f-4f41-ad96-904ae9e2daad-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 215000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648fa"
+  }
+},{
+  "_id": {
+    "$oid": "638f14946898780969dfd23d"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 04",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/c82c7f50-a4aa-4d32-89f1-2b5c3f310dfc-ezgif.com-gif-maker.png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 215000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c3648fd"
+  }
+},{
+  "_id": {
+    "$oid": "638f149c6898780969dfd247"
+  },
+  "title": "Quần Tây nam thể thao Recycle 7\" V2 (túi sau có khóa kéo) 05",
+  "description": "-Chất liệu: 80% Cotton , 20% Recycle Polyester \n  - Là sản phẩm của sự hợp tác giữa X và Disney, đơn vị sở hữu bản quyền Marvel.\n- Chiếc áo thun có thành phần là sợi tái chế tại Việt Nam, hướng tới sự bền vững trong ngành may mặc.\n- Mềm mại, bền dai, không bai, nhão, xù lông và không gây khó chịu khi mặc\n  - Chất liệu co giãn 4 chiều đem lại sự thoải mái suốt ngày dài\n  - Đây là sản phẩm thời trang đi theo hướng bền vững, thân thiện hơn với môi trường",
+  "imageUrl": "images/f848e681-f710-4fb6-a556-c15e3c15eb3a-ezgif.com-gif-maker (1).png",
+  "material": "Cotton",
+  "size": "S M L XL",
+  "price": 235000,
+  "childCatalog": {
+    "$oid": "638f10996898780969dfd0f4"
+  },
+  "parentCatalog": {
+    "$oid": "637237eebacce0fca9911587"
+  },
+  "__v": 0,
+  "featuredProduct": 0,
+  "sale": 0,
+  "totalSoldProducts": 0,
+  "rate": {
+    "$oid": "63a07b1306155a275c364900"
+  }
+}]

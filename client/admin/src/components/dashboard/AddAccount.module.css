@@ -1,0 +1,41 @@
+.main {
+  height: 40rem;
+  width: 60%;
+  /* background-color: rgb(22, 134, 233); */
+  margin: 5% 20%;
+  padding: 0px 0px;
+}
+.form {
+  display: flex;
+  width: 100%;
+  /* background-color: aquamarine; */
+}
+.status{
+  width: 94%;
+  height: 4rem;
+}
+.input {
+  display: flex;
+  margin: 2% 1%;
+  width: 40%;
+}
+.btn {
+  width: 5rem;
+  margin: 2% 1%;
+}
+.list {
+  height: 25rem;
+  width: 100%;
+  /* background-color: bisque; */
+}
+.ag_grid {
+  height: 80%;
+  width: 96%;
+  margin: 5% 2%;
+}
+.closebtn {
+  position: fixed;
+  bottom: 6%;
+  right: 3%;
+}
+

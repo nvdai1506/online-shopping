@@ -1,0 +1,30 @@
+.profile_container {
+  margin-top: 12rem;
+  padding: 0 10%;
+}
+/* 1900 */
+@media (max-width: 118.75em) {
+  .profile_container {
+    padding: 0 5%;
+  }
+}
+/* 1500 */
+@media (max-width: 93.75em) {
+  .profile_container {
+    padding: 0 4%;
+  }
+}
+/* 1200 */
+@media (max-width: 75em) {
+  .profile_container {
+    margin-top: 12rem;
+    padding: 0 3%;
+  }
+}
+/* 900px */
+@media (max-width: 57em) {
+  .profile_container {
+    margin-top: 12rem;
+    padding: 0 0;
+  }
+}

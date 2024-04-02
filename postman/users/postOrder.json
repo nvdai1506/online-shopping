@@ -1,0 +1,30 @@
+[
+  {
+    "cart": {
+      "items": [
+        {
+          "product": "637447f86e7b2a735a3492ad",
+          "quantity": 1
+        },
+        {
+          "product": "6374480e6e7b2a735a3492b7",
+          "quantity": 1
+        }
+      ],
+      "subTotal": 350000
+    },
+    "email":"nvdai@gmail.com"
+  },
+  {
+    "cart": {
+      "items": [
+        {
+          "product": "637313daf6ac80bc77823952",
+          "quantity": 2
+        }
+      ],
+      "subTotal": 220000
+    },
+    "email":"nvdai2@gmail.com"
+  }
+]

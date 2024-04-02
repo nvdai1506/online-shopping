@@ -1,0 +1,126 @@
+.menu_item {
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s;
+}
+.menu_icon {
+  font-size: 1.5rem;
+}
+.menu_hide {
+  width: 101vw;
+  height: auto;
+  position: absolute;
+  padding: 2rem 0;
+
+  top: 100%;
+  left: 0;
+  transform: translateX(-49%);
+  cursor: inherit;
+
+  z-index: 101;
+  transition: all 0.3s;
+
+  /* Hide navigation */
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.menu_item:hover {
+  /* background-color: rgba(244, 244, 244, 0.2); */
+  color: #66d9e8;
+}
+.menu_item:hover .menu_icon {
+  transform: scale(1.2);
+}
+.menu_item:hover .menu_hide {
+  opacity: 1;
+  pointer-events: all;
+  visibility: visible;
+}
+
+.menu_hide_container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background-color: #333333;
+  border-top: 2px solid #66d9e8;
+  box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.1);
+  padding: 5rem 0;
+  padding-left: 4%;
+}
+.nav {
+  grid-template-columns: repeat(4, 1fr);
+  justify-items: start;
+}
+
+.enable_menu_hide {
+  opacity: 1;
+  pointer-events: all;
+  visibility: visible;
+}
+/* 1200 */
+@media (max-width: 75em) {
+  .menu_hide {
+    transform: translateX(-48.5%);
+  }
+  .disable_menu_hide {
+    opacity: 0 !important;
+    pointer-events: none !important;
+    visibility: hidden !important;
+  }
+}
+/* 900 */
+@media (max-width: 57.5em) {
+  .nav {
+    width: 90%;
+  }
+  .menu_hide {
+    transform: translateX(-48%);
+  }
+
+  .menu_hide_container {
+    padding-left: 10%;
+  }
+}
+/* 768 */
+@media (max-width: 48em) {
+  .menu_hide {
+    transform: translateX(-47%);
+  }
+}
+/* 600 */
+@media (max-width: 37.5em) {
+  .nav {
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 5rem;
+  }
+  .menu_hide_container {
+    padding-left: 23%;
+  }
+}
+
+/* 544 */
+@media (max-width: 34em) {
+  .menu_hide {
+    transform: translateX(-46%);
+  }
+  .menu_hide_container {
+    padding-left: 18%;
+  }
+}
+/* 400 */
+@media (max-width: 25em) {
+  .menu_hide {
+    transform: translateX(-44.5%);
+  }
+  .menu_hide_container {
+    padding-left: 15%;
+  }
+}
