@@ -1,4 +1,4 @@
-name: Deploy Docker Compose
+name: Deploy Server
 
 on:
   push:
@@ -19,7 +19,7 @@ jobs:
       - run: cd ./server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
       - run: docker push nvdai/online-shopping-api
 
-      - name: Copy server to ubuntu server
+      - name: Copy docker-compose file to server
         uses: appleboy/scp-action@master
         with:
           host: ${{ secrets.SSH_HOST }}
@@ -27,4 +27,15 @@ jobs:
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
           source: "./docker-compose.prod.yml"
-          target: "~/online shopping"
+          target: "~/online shopping/server"
+      
+      - name: Run docker-compose on server
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ secrets.SSH_HOST }}
+          username: ${{ secrets.SSH_USERNAME }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          port: 22
+          script: |
+            cd ~/online shopping/server
+            sudo docker compose -f docker-compose.prod.yml up -d
