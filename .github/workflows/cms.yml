@@ -33,7 +33,7 @@ jobs:
           username: ${{ secrets.SSH_USERNAME }}
           key: ${{ secrets.SSH_PRIVATE_KEY }}
           port: 22
-          source: './build.zip'
+          source: 'build.zip'
           target: '~/online-shopping/cms'
 
       - name: Copy build.zip to /var/www/html/ folder
