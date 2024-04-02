@@ -16,7 +16,7 @@ jobs:
           DOCKER_USERNAME: ${{ secrets.DOCKER_USERNAME }}
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
-      - run: cd ./online\ shopping/server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
+      - run: cd ./server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
       - run: docker push nvdai/online-shopping-api
 
       - name: Copy server to ubuntu server
