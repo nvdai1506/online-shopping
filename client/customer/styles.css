@@ -1,0 +1,65 @@
+.nav_dropdown a {
+  text-decoration: none;
+}
+
+.nav_dropdown {
+  font-family: monospace;
+}
+
+.nav_dropdown ul {
+  background: darkorange;
+  list-style: none;
+  margin: 0;
+  padding-left: 0;
+}
+
+.nav_dropdown li {
+  color: #fff;
+  background: darkorange;
+  display: block;
+  float: left;
+  padding: 1rem;
+  position: relative;
+  text-decoration: none;
+  transition-duration: 0.5s;
+}
+
+.nav_dropdown li a {
+  color: #fff;
+}
+
+.nav_dropdown li:hover,
+.nav_dropdown li:focus-within {
+  background: red;
+  cursor: pointer;
+}
+
+.nav_dropdown li:focus-within a {
+  outline: none;
+}
+
+.nav_dropdown ul li ul {
+  background: orange;
+  visibility: hidden;
+  opacity: 0;
+  min-width: 5rem;
+  position: absolute;
+  transition: all 0.5s ease;
+  margin-top: 1rem;
+  left: 0;
+  display: none;
+}
+
+.nav_dropdown ul li:hover > ul,
+.nav_dropdown ul li:focus-within > ul,
+.nav_dropdown ul li ul:hover,
+.nav_dropdown ul li ul:focus {
+  visibility: visible;
+  opacity: 1;
+  display: block;
+}
+
+.nav_dropdown ul li ul li {
+  clear: both;
+  width: 100%;
+}
