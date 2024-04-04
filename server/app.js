@@ -32,22 +32,24 @@ const __dirname = path.dirname(__filename);
 const test = dotenv.config({ path: __dirname + '/.env' });
 // console.log(test);
 
-app.use(cors({
-  "origin": "*",
-  "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
-}));
-// let whitelist = ["http://localhost:3000"];
-
 // app.use(cors({
-//   origin: function (origin, callback) {
-//     if (whitelist.indexOf(origin) !== -1) {
-//       callback(null, true);
-//     } else {
-//       console.warn(`Origin '${origin}' is not in the white list:`, whitelist);
-//       callback(new Error('Not allowed by CORS'));
-//     }
-//   }
+//   "origin": "*",
+//   "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
 // }));
+// const whitelist = ["http://localhost:3000"];
+const whitelist = ["http://localhost:3000","https://nv-dai.com","https://admin.nv-dai.com"];
+
+app.use(cors({
+  origin: function (origin, callback) {
+    if (whitelist.indexOf(origin) !== -1) {
+      callback(null, true);
+    } else {
+      console.warn(`Origin '${origin}' is not in the white list:`, whitelist);
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
+  methods: "GET,HEAD,PUT,PATCH,POST,DELETE",
+}));
 
 app.use(express.json());
 app.use(morgan("dev"));
