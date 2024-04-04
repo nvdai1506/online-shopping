@@ -17,7 +17,7 @@ jobs:
           DOCKER_PASSWORD: ${{ secrets.DOCKER_PASSWORD }}
 
       - run: cd ./server && docker build -t nvdai/online-shopping-api -f Dockerfile.dev .
-      - run: docker push nvdai/online-shopping-api
+      - run: docker push nvdai/online-shopping-api:latest
 
       - name: Copy docker-compose file to server
         uses: appleboy/scp-action@master
