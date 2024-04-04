@@ -19,7 +19,7 @@ services:
 
   backend-prod:
     restart: on-failure
-    image: nvdai/online-shopping-api
+    image: nvdai/online-shopping-api:latest
     depends_on:
       - redis
       - mongodb
