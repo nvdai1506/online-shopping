@@ -37,7 +37,8 @@ const test = dotenv.config({ path: __dirname + '/.env' });
 //   "methods": "GET,HEAD,PUT,PATCH,POST,DELETE",
 // }));
 // const whitelist = ["http://localhost:3000"];
-const whitelist = ["http://localhost:3000","https://nv-dai.com","https://admin.nv-dai.com"];
+// const whitelist = ["http://localhost:3000","https://nv-dai.com","https://admin.nv-dai.com"];
+const whitelist = ["http://localhost:3000","http://nv-dai.com","http://admin.nv-dai.com"];
 
 app.use(cors({
   origin: function (origin, callback) {
